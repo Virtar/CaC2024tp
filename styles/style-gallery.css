@@ -193,11 +193,7 @@ body {
  */
 
 /* @media screen and (max-width: 575px) {
-        img {
-        width: 16em;
-        /*box-sizing: content-box*/
-    }
-  }  */
+ */
 
 @media screen and (min-width: 576px) {
 
