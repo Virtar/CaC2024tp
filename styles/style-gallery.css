@@ -194,7 +194,7 @@ body {
 
 @media screen and (max-width: 575px) {
         img {
-        width: 75%;
+        width: 16em;
         /*box-sizing: content-box*/
     }
   } 
